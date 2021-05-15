@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is A238-DD90
-
- Directory of C:\Users\mayank garg\Desktop\My git project
-
-15-05-2021  14:53    <DIR>          .
-15-05-2021  14:53    <DIR>          ..
-15-05-2021  14:53                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  82,537,287,680 bytes free
+change1
